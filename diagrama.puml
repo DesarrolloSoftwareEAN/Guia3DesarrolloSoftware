@@ -1,0 +1,17 @@
+@startuml
+class EvaluadorExpresiones {
+    + parentesisBalanceados(expresion: String): boolean
+    + infijaAPostfija(expresion: String): String
+    + evaluarPostfija(expresionPostfija: String): int
+}
+
+class Stack {
+    - elementos: List<T>
+    + push(valor: T)
+    + pop(): T
+    + peek(): T
+    + isEmpty(): boolean
+}
+
+EvaluadorExpresiones --> "Usa" Stack
+@enduml
