@@ -106,5 +106,8 @@ Este proyecto es de código abierto y puedes modificarlo o mejorarlo según tus 
 
 ---
 
-👨‍💻 Desarrollado por Crsithian Felipe Martinez Venegas 🚀
+👨‍💻 Desarrollado por Crsithian Felipe Martinez Venegas
+                              Jorge Steven Gaitan
+                              Miguel Antonio Moscote
+                              Mariana Ruiz Rubiano🚀
 
